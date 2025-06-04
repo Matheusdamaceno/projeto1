@@ -155,6 +155,7 @@ footer {
 
 .slides img {
   width: 10%;
+  max-width: 10%;
   border-radius: 15px;
 }
 
