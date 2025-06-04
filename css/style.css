@@ -18,7 +18,7 @@ header {
   justify-content: space-between;
 }
 
-.logo {
+#logo {
   font-size: 1.3em;
   font-weight: bold;
   color: white;
@@ -27,7 +27,7 @@ header {
   transition: 0.3s;
 }
 
-.logo:hover {
+#logo:hover {
   color: rgb(86, 84, 238);
 }
 
@@ -85,7 +85,7 @@ footer {
   margin-top: 40px;
 }
 
-.galeria {
+#galeria {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 20px;
