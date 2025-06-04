@@ -16,8 +16,6 @@ header {
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
 }
 
 .logo {
@@ -188,7 +186,7 @@ footer {
 .bloco-destaque p {
   margin-right: 20px;
   margin-bottom: 0;
-  
+
 }
 
 .bloco-destaque li {
